@@ -1,2 +1,4 @@
 # Used by Humly among others
 *.cloudns.net*
+#for www.colt.net
+*wp1313.host.pressdns.com*
