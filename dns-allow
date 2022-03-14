@@ -4,5 +4,7 @@
 *wp1313.host.pressdns.com*
 # Used by ImIT for tenders Fixit:167797
 *censinet.com*
-# Used communities.vmware.com uses this for hosting... Fixit:169395
+# Used by communities.vmware.com uses this for hosting... Fixit:169395
 *.lithium.com*
+# Used by communities.vmware.com uses this for hosting... Fixit:169395
+*.cloudfront.net*
