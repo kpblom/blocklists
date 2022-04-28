@@ -10,3 +10,4 @@
 *.cloudfront.net*
 # Newly registered domain - should be ok to remove june 2022 Fixit# 171204
 *.pacsforukraine.com*
+*pacsforukraine.com*
