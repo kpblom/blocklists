@@ -8,6 +8,5 @@
 *.lithium.com*
 # Used by communities.vmware.com uses this for hosting... Fixit:169395
 *.cloudfront.net*
-# Newly registered domain - should be ok to remove june 2022 Fixit# 171204
-*.pacsforukraine.com*
-*pacsforukraine.com*
+# Fixit : 174607 -  New domain for Education Should be ok in July.
+*epsectra-dev.com*
