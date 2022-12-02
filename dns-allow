@@ -10,3 +10,5 @@
 *.cloudfront.net*
 # Fixit : 174607 -  New domain for Education Should be ok in July.
 *epsectra-dev.com*
+# Martin Lindvall special
+*seat-006.pizza-empire.online*
